@@ -1,2 +1,2 @@
 # exchange-public
-Public https://exchange.tranoo.com/ Issues and Discussions repo.
+Public https://swap.tranoo.com/ Issues and Discussions repo.
