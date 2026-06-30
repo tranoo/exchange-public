@@ -4,7 +4,7 @@
 
 Public repository for TranooSwap issues, discussions, documentation, and project communication.
 
-🌐 Website: https://swap.tranoo.com/
+🌐 Live application: https://swap.tranoo.com/
 
 ---
 
